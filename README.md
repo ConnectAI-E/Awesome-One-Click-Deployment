@@ -14,12 +14,12 @@ One-click deployment of various github open source projects.
 
 ## Service provided
 
-1. Free one-click deployment with Vercel in 1 minute
+1. Free one-click deployment  in 1 minute
 2. Provide generation deployment service and help with deployment for a fee
 
 ## Roadmap
 
-- [ ] 1. Support mainstream ChatGPT-like projects for deployment with Vercel
+- [ ] 1. Support mainstream ChatGPT-like projects for deployment with Vercel etc
 - [ ] 2. Support the privatization deployment of mainstream ChatGPT-like projects
 - [ ] 3. Support other projects about LLM
 
@@ -27,4 +27,5 @@ One-click deployment of various github open source projects.
 | Projects Name | Description | deployment | 
 |---|---|---|
 |[AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) |One-Click to deploy well-designed AutoGPT-Next-Web web UI on Vercel |[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDogtiti%2FAutoGPT-Next-Web&env=OPENAI_API_KEY&project-name=autogpt-next-web&repository-name=AutoGPT-Next-Web) |
+|[chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) |用 Express 和 Vue3 搭建的 ChatGPT 演示网页|[![Deploy with Railway](https://railway.app/button.svg)](https://railway.app/new/template/yytmgc) |
 
