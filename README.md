@@ -34,3 +34,4 @@ One-click deployment of various github open source projects.
 |[chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | 开源的ChatGPT UI界面，非常接近原版. |[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui) |
 |[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署|[![Deploy with Railway](https://railway.app/button.svg)](https://railway.app/template/qApznZ?referralCode=RC3znh) |
 |[ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界面|[![Deploy with Railway](https://railway.app/button.svg)](https://huggingface.co/login?next=%2Fspaces%2FJohnSmith9982%2FChuanhuChatGPT%3Fduplicate%3Dtrue) |
+|[auto-gpt-web](https://github.com/jina-ai/auto-gpt-web)|基于AutoGPT的前端UI界面| |
