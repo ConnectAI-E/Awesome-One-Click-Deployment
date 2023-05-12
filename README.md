@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">awesome-one-click-deployment</h1>
+<h1 align="center">Awesome-one-click-deployment</h1>
 
 One-click deployment of various github open source projects.
 
