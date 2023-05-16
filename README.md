@@ -15,10 +15,8 @@ One-click deployment of various github open source projects.
 ## Business Version for AutoGPT-Next-Web
 
 During the period of maintaining open source projects, many friends came to consult about customizing the system. Considering that there may be more friends who have similar needs, we decided to start the internal test plan of the commercial version~ 
-1. plan support
-User login system, billing system, charging system, etc., so that everyone can directly deploy a charged version of AutoGPT, and can directly obtain income 
-2. way of participation
-To pre-order the commercial version and view the details of the commercial version plan, please click the link below
+1. plan support：User login system, billing system, charging system, etc., so that everyone can directly deploy a charged version of AutoGPT, and can directly obtain income 
+2. way of participation：To pre-order the commercial version and view the details of the commercial version plan, please click the link below
 https://egqz2y6eul.feishu.cn/docx/PxoMd7LGfoobAixiuWacxRWQnNd?from=from_copylink
 
 ## Service provided
