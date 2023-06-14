@@ -4,7 +4,7 @@
 
 One-click deployment of various github open source projects.
 
-一键部署各种Github开源项目
+一键部署各种Github开源AI项目
 
 [Join Discord](https://discord.gg/h8sNt7fkA3) / [Buy Me a Coffee](https://www.buymeacoffee.com/elricliu)
 
