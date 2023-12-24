@@ -6,7 +6,7 @@ One-click deployment of various github open source projects.
 
 一键部署各种Github开源AI项目
 
-[Join Discord](https://discord.gg/5huZe8ch) / [Buy Me a Coffee](https://www.buymeacoffee.com/elricliu)
+[Join Discord](https://discord.gg/3N4neHuqcE) / [Buy Me a Coffee](https://www.buymeacoffee.com/elricliu)
 
 [QQ 群](https://raw.githubusercontent.com/Insights-AI/One-click-deployment/main/QQ.jpg) / [微信](https://user-images.githubusercontent.com/38354472/232797309-9348f3a6-1dd7-422a-ad01-935247b1970e.png) / [打赏开发者](https://user-images.githubusercontent.com/38354472/232796654-c749602b-c1d4-402b-8c31-e7c013b7a42d.png)
 
