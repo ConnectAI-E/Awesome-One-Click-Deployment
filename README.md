@@ -12,13 +12,6 @@ One-click deployment of various github open source projects.
 
 </div>
 
-## Business Version for AutoGPT-Next-Web
-
-During the period of maintaining open source projects, many friends came to consult about customizing the system. Considering that there may be more friends who have similar needs, we decided to start the internal test plan of the commercial version~ 
-1. plan support：User login system, billing system, charging system, etc., so that everyone can directly deploy a charged version of AutoGPT, and can directly obtain income 
-2. way of participation：To pre-order the commercial version and view the details of the commercial version plan, please click the link below
-https://egqz2y6eul.feishu.cn/docx/PxoMd7LGfoobAixiuWacxRWQnNd?from=from_copylink
-
 ## Service provided
 
 1. Free one-click deployment  in 1 minute
@@ -33,6 +26,7 @@ https://egqz2y6eul.feishu.cn/docx/PxoMd7LGfoobAixiuWacxRWQnNd?from=from_copylink
 # Support list
 | Projects Name | Description | deployment | 
 |---|---|---|
+|[GeminiProChat](https://github.com/babaohuang/GeminiProChat) |Minimal web UI for GeminiPro.|[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/babaohuang/GeminiProChat&env=GEMINI_API_KEY&envDescription=Google%20API%20Key%20for%20GeminiProChat&envLink=https://makersuite.google.com/app/apikey&project-name=gemini-pro-chat&repository-name=gemini-pro-chat&demo-title=Gemini%20Pro%20Chat&demo-description=Minimal%20web%20UI%20for%20Gemini%20Pro.&demo-url=https%3A%2F%2Fgeminiprochat.com&demo-image=https%3A%2F%2Fgeminiprochat.com%2Ficon.svg) |
 |[AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) |一键免费部署你的私人 AutoGPT 网页应用|[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDogtiti%2FAutoGPT-Next-Web&env=OPENAI_API_KEY&project-name=autogpt-next-web&repository-name=AutoGPT-Next-Web) |
 |[chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) |用 Express 和 Vue3 搭建的 ChatGPT 演示网页|[![Deploy with Railway](https://railway.app/button.svg)](https://railway.app/new/template/yytmgc) |
 |[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) |一键免费部署你的私人 ChatGPT 网页应用 |[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web) |
