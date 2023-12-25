@@ -12,17 +12,6 @@ One-click deployment of various github open source projects.
 
 </div>
 
-## Service provided
-
-1. Free one-click deployment  in 1 minute
-2. Provide generation deployment service and help with deployment for a fee
-
-## Roadmap
-
-- [ ] 1. Support mainstream ChatGPT-like projects for deployment with Vercel etc
-- [ ] 2. Support the privatization deployment of mainstream ChatGPT-like projects
-- [ ] 3. Support other projects about LLM
-
 # Support list
 | Projects Name | Description | deployment | 
 |---|---|---|
@@ -37,6 +26,17 @@ One-click deployment of various github open source projects.
 |[ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界面|[![Deploy with Railway](https://railway.app/button.svg)](https://huggingface.co/login?next=%2Fspaces%2FJohnSmith9982%2FChuanhuChatGPT%3Fduplicate%3Dtrue) |
 |[auto-gpt-web](https://github.com/jina-ai/auto-gpt-web)|基于AutoGPT的前端UI界面| |
 |[langflow](https://github.com/logspace-ai/langflow)|LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.|[![Deploy with Railway](https://railway.app/button.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/genome21/langflow&working_dir=scripts&shellonly=true&tutorial=walkthroughtutorial_spot.md) |
+
+## Service provided
+
+1. Free one-click deployment  in 1 minute
+2. Provide generation deployment service and help with deployment for a fee
+
+## Roadmap
+
+- [ ] 1. Support mainstream ChatGPT-like projects for deployment with Vercel etc
+- [ ] 2. Support the privatization deployment of mainstream ChatGPT-like projects
+- [ ] 3. Support other projects about LLM
 
 # 企联AI
 
